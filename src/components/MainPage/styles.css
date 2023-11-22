@@ -1,0 +1,17 @@
+.card {
+  width: 100%;
+  cursor: pointer;
+}
+
+.card-body {
+  height: 160px;
+}
+
+.custom-operator-img {
+  height: 140px;
+  width: 100%;
+}
+
+.img {
+  object-fit: contain;
+}
